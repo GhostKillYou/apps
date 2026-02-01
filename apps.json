@@ -1,0 +1,78 @@
+{
+  "title": "База приложений",
+  "description": "Основные приложения для прошивки SlimBox на Tanix W2.",
+  "apps": [
+    {
+      "title": "YouTube (оптимизированный)",
+      "description": "YouTube с обходом ограничений. Предварительно настроен.",
+      "url": "https://disk.yandex.ru/d/eTHpf1dwl3SipA",
+      "category": "Видео"
+    },
+    {
+      "title": "VK Видео",
+      "description": "Официальное приложение для просмотра видео из ВКонтакте.",
+      "url": "https://disk.yandex.ru/d/NhRL_B_19Luuvw",
+      "category": "Видео"
+    },
+    {
+      "title": "RUTUBE",
+      "description": "Официальное приложение видеохостинга RUTUBE для Android TV.",
+      "url": "https://disk.yandex.ru/d/emu4FWDXUTDhyw",
+      "category": "Видео"
+    },
+    {
+      "title": "KinoTrend",
+      "description": "Качественные новинки кино за последние 90 дней. Торренты и онлайн.",
+      "url": "https://disk.yandex.ru/d/N0dwVNZ-hIMOOw",
+      "category": "Кино"
+    },
+    {
+      "title": "NUM",
+      "description": "Поиск видео на популярных торрент-трекерах. Удобный интерфейс.",
+      "url": "https://disk.yandex.ru/d/1lhQ0ye6h-YMiA",
+      "category": "Кино"
+    },
+    {
+      "title": "Лайт HD TV",
+      "description": "Бесплатные ТВ-каналы в HD-качестве. Более 250 каналов.",
+      "url": "https://disk.yandex.ru/d/RQI4EdcooSz6fA",
+      "category": "ТВ"
+    },
+    {
+      "title": "IPTV Pro",
+      "description": "Продвинутый плеер для IPTV. Поддержка плейлистов M3U.",
+      "url": "https://disk.yandex.ru/d/G-ef8dyvhjVoTQ",
+      "category": "ТВ"
+    },
+    {
+      "title": "AnyDesk",
+      "description": "Приложение для удалённой поддержки. Позволит нам быстро помочь.",
+      "url": "https://disk.yandex.ru/d/sIyAJyw54UF-7Q",
+      "category": "Утилиты"
+    },
+    {
+      "title": "FMPLAY (Радио)",
+      "description": "Приложение для прослушивания тысяч радиостанций со всего мира.",
+      "url": "https://disk.yandex.ru/d/QENMPib1yIBJoA",
+      "category": "Музыка"
+    },
+    {
+      "title": "YoWindow (Погода)",
+      "description": "Красивые живые обои с погодой. Заставка при простое приставки.",
+      "url": "https://disk.yandex.ru/d/N9lcAJiUW7-TAg",
+      "category": "Утилиты"
+    },
+    {
+      "title": "X-plore File Manager",
+      "description": "Мощный файловый менеджер с поддержкой облаков и локальной сети.",
+      "url": "https://disk.yandex.ru/d/BfF9smVErjDWdg",
+      "category": "Утилиты"
+    },
+    {
+      "title": "ByeByeDPI",
+      "description": "Приложение, которое обеспечивает стабильный доступ к интернет-ресурсам, обходя ограничения провайдеров и санкционные блокировки.",
+      "url": "https://disk.yandex.ru/d/512k5f2nAMP5jw",
+      "category": "Утилиты"
+    }
+  ]
+}
