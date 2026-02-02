@@ -9,12 +9,6 @@
       "category": "Видео"
     },
     {
-      "title": "VK Видео",
-      "description": "Официальное приложение для просмотра видео из ВКонтакте.",
-      "url": "https://www.dropbox.com/scl/fi/g71lc0ijlof1rj3tpdzh3/VK-Video-AndroidTV-v2.84-arm7a.apks?dl=1",
-      "category": "Видео"
-    },
-    {
       "title": "RUTUBE",
       "description": "Официальное приложение видеохостинга RUTUBE для Android TV.",
       "url": "https://www.dropbox.com/scl/fi/pwprpeoelk4ddrho00jox/RutubeTv.release.30.14.3.TV-general.apk?dl=1",
@@ -77,5 +71,6 @@
   ]
 
 }
+
 
 
