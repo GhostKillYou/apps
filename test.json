@@ -1,0 +1,12 @@
+{
+  "title": "ТЕСТ",
+  "description": "Тестовый файл.",
+  "apps": [
+    {
+      "title": "AnyDesk (Тест)",
+      "description": "Тестовая установка.",
+      "url": "https://files.fm/f/xxxxxxx",
+      "category": "Тест"
+    }
+  ]
+}
