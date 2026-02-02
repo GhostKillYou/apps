@@ -11,7 +11,7 @@
     {
       "title": "VK Видео",
       "description": "Официальное приложение для просмотра видео из ВКонтакте.",
-      "url": "https://sourceforge.net/projects/app/files/VK-Video-AndroidTV-v2.84%28arm7a%29.apk",
+      "url": "https://sourceforge.net/projects/app/files/VK_Video.apk",
       "category": "Видео"
     },
     {
@@ -77,6 +77,7 @@
   ]
 
 }
+
 
 
 
