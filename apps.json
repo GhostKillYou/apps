@@ -51,6 +51,12 @@
       "category": "Утилиты"
     },
     {
+      "title": "AnyDesk Control",
+      "description": "Обязательный плагин для приложения AnyDesk",
+      "url": "https://sourceforge.net/projects/app/files/adcontrol-ad1.apk",
+      "category": "Утилиты"
+    },
+    {
       "title": "FMPLAY (Радио)",
       "description": "Приложение для прослушивания тысяч радиостанций со всего мира.",
       "url": "https://sourceforge.net/projects/app/files/FMPLAY-v2.4.15%28Universal%29.apk",
@@ -77,6 +83,7 @@
   ]
 
 }
+
 
 
 
