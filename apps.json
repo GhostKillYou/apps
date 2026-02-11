@@ -75,6 +75,12 @@
       "category": "Утилиты"
     },
     {
+      "title": RuStore",
+      "description": "Российский магазин приложений",
+      "url": "https://sourceforge.net/projects/app/files/RuStoreTV.apk",
+      "category": "Утилиты"
+    },
+    {
       "title": "ByeByeDPI",
       "description": "Приложение, которое обеспечивает стабильный доступ к интернет-ресурсам, обходя ограничения провайдеров и санкционные блокировки.",
       "url": "https://sourceforge.net/projects/app/files/ByeByeDPI-v1.7.2-universal-release.apk",
